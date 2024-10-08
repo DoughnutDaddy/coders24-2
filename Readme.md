@@ -1,1 +1,1 @@
-my site suckkkssss <-- wrote before actually making it
+so far its a plain site with blue headers
