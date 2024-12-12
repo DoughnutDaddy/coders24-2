@@ -18,5 +18,5 @@ p {
 image {
     width: 200px; /* Set the width */
     height: 100px; /* Set the height */
-    text-align: center;
+    image-align: center;
 }
